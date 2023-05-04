@@ -1,0 +1,2 @@
+This is my second text file to test fs module in node.
+

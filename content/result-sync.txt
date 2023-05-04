@@ -1,0 +1,6 @@
+Here is the result: This is my first text file to test fs modules in node.
+, This is my second text file to test fs module in node.
+
+Here is the result: This is my first text file to test fs modules in node.
+, This is my second text file to test fs module in node.
+
